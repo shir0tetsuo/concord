@@ -2,6 +2,11 @@
 
 Contains Occult related teachings, vetting etc.
 
+## Vetting
+
+[focusarea/𝖜𝖔𝖑𝖋𝖍𝖎𝖛𝖊₊̣̇¹⁸⁺ - Focus Area - 🍁⿴vetting [1046093593779110009].html](focusarea/%F0%9D%96%9C%F0%9D%96%94%F0%9D%96%91%F0%9D%96%8B%F0%9D%96%8D%F0%9D%96%8E%F0%9D%96%9B%F0%9D%96%8A%E2%82%8A%CC%A3%CC%87%C2%B9%E2%81%B8%E2%81%BA%20-%20Focus%20Area%20-%20%F0%9F%8D%81%E2%BF%B4vetting%20%5B1046093593779110009%5D.html)
+
+
 ## Mind Motes
 
 Please note: There should be no NSFW content in any of these channels or it has been removed, if there is an issue with the
