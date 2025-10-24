@@ -1,4 +1,4 @@
-# Shadowsword's Concord Backup
+# Shadowsword's 𝖜𝖔𝖑𝖋𝖍𝖎𝖛𝖊 Backup (Concord)
 
 Contains Occult related teachings, vetting etc.
 
@@ -61,6 +61,10 @@ archive please contact me on Discord (shadowsword 303309686264954881)
 [mindmotes/𝖜𝖔𝖑𝖋𝖍𝖎𝖛𝖊₊̣̇¹⁸⁺ - 🛂kenopsia - Linestrider [1167636721987493928].html](mindmotes/%F0%9D%96%9C%F0%9D%96%94%F0%9D%96%91%F0%9D%96%8B%F0%9D%96%8D%F0%9D%96%8E%F0%9D%96%9B%F0%9D%96%8A%E2%82%8A%CC%A3%CC%87%C2%B9%E2%81%B8%E2%81%BA%20-%20%F0%9F%9B%82kenopsia%20-%20Linestrider%20%5B1167636721987493928%5D.html)
 
 ## Other Resources
+[Laws/Conduct](https://docs.google.com/document/d/1uyUK3cZzVwRrp6eB7e7yMJkC5VlKk_EOXnPCmi0bUIg/edit?usp=sharing)
+
 [Sparring Tournament Guidelines](https://docs.google.com/document/d/1VnrsAd7R8DeGBTdCPm7q2FqqUJehQmbdJEo93LmbRqY/edit?usp=sharing) - [Old Version](Astral%20Projection%20Tournament%20Guidelines%202025.pdf)
+
 [Sunora Backup](https://rosealeria.notion.site/c8840a47c8a241dc895e1a202c3f74e3)
+
 [Scanning Basics](http://web.archive.org/web/20180909071820/http://sunora.net/learning-to-scan/)
