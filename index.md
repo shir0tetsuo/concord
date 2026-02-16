@@ -2,10 +2,8 @@
 
 Contains Occult related teachings, vetting etc.
 
-# In the event of Loss of Communication
-
-We plan to host a password protected IRC Server in the near future.
-Our code of conduct will also apply to the IRC Server with a few exceptions.
+# We host an IRC Server
+Come join at `irc.shadowsword.ca`, port `6697` (SSL)
 
 ## Vetting
 
